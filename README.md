@@ -25,8 +25,8 @@ This is a 3D matching game I developed as part of my coursework at **Bakırçay 
 1. **Skill 1: Highlight Matchable Pairs**  
    - A button activates a 5-second highlight of all possible matching pairs on the screen.  
 
-2. **Skill 2: Area Clear**  
-   - Clears all objects currently in the placement area with a special effect, allowing for a fresh start.  
+2. **Skill 2: Reduce Area**  
+   - Temporarily reduces the size of the game area, making it easier to focus on specific objects and pairs.  
 
 3. **Skill 3: Random Respawn**  
    - Respawns all objects in new random positions, giving players new opportunities for matches.  
@@ -45,8 +45,8 @@ Players start with randomly placed objects in the game area and must drag them i
 
 ## 📝 Technical Notes  
 
-- **Unity Version:** Unity 2022.3.31f  
-- **Assets Used:** Low-Poly Objects Pack  
+- **Unity Version:** Unity 2022.3.51f  
+- **Assets Used:** Private Assets
 - **Visual Design:** Soft skybox and clean plane colors for a polished aesthetic.  
 - **Animations:** Implemented with Unity Animator and particle effects for skills and matches.  
 
